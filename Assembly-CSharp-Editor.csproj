@@ -66,20 +66,6 @@
      <Compile Include="Assets\GoogleVR\Legacy\Editor\Audio\GvrAudioRoomEditor.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Editor\Audio\GvrAudioSoundfieldEditor.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Editor\Audio\GvrAudioSourceEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\AntialiasingEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\BloomAndFlaresEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\BloomEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\CameraMotionBlurEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\ColorCorrectionCurvesEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\ColorCorrectionLookupEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\CreaseShadingEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\DepthOfFieldDeprecatedEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\DepthOfFieldEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\EdgeDetectionEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\NoiseAndGrainEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\SunShaftsEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\TonemappingEditor.cs" />
-     <Compile Include="Assets\Nature\Editor\ImageEffects\VignetteAndChromaticAberrationEditor.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>E:/Unity/Kerala-Tourism/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
@@ -382,8 +368,12 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{BCF2988B-104B-4473-A686-E11AC4D219B9}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{2659BD32-5293-C8AB-E780-763696AE3161}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
+      <Project>{159C7259-A680-1C2B-F5CF-BD4DCA546431}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
