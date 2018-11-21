@@ -30,5 +30,10 @@ public class VRPlayer_Movement : MonoBehaviour {
 
             cc.SimpleMove(forward * speed);
         }
+		
+		if (Input.GetKeyDown(KeyCode.Escape)) {
+        Application.Quit();
+		
+		}
 	}
 }
