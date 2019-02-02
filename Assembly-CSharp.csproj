@@ -146,6 +146,7 @@
      <Compile Include="Assets\Materials\Spin.cs" />
      <Compile Include="Assets\Scripts\mainmenu.cs" />
      <Compile Include="Assets\Scripts\PlaceVideoLoading.cs" />
+     <Compile Include="Assets\Scripts\ScreenBackControllere.cs" />
      <Compile Include="Assets\Scripts\VRPlayer_Movement.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
