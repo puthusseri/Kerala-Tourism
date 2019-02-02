@@ -17,6 +17,10 @@ public class PlaceVideoLoading : MonoBehaviour {
 		
 		SceneManager.LoadScene("SceneRamakalmedu");
 	}
+	public void place_Boating() {
+		
+		SceneManager.LoadScene("SceneBoadting");
+	}
 	public void quitTheApplication () {
 		Application.Quit ();
 	}
