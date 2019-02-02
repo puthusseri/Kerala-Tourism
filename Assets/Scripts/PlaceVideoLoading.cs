@@ -21,6 +21,10 @@ public class PlaceVideoLoading : MonoBehaviour {
 		
 		SceneManager.LoadScene("SceneBoadting");
 	}
+	public void place_Athirapally() {
+		
+		SceneManager.LoadScene("SceneAthirapally");
+	}
 	public void quitTheApplication () {
 		Application.Quit ();
 	}
