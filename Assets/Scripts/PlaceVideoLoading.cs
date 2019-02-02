@@ -10,7 +10,7 @@ public class PlaceVideoLoading : MonoBehaviour {
 	public void place_Waterfall() {
 		SceneManager.LoadScene("Scene2Waterfall");
 	}
-	public void place_Waterfall() {
+	public void place_Wayanad() {
 		SceneManager.LoadScene("SceneWayanad");
 	}
 	public void quitTheApplication () {
