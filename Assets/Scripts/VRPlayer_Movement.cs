@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class VRPlayer_Movement : MonoBehaviour {
 	
@@ -9,11 +10,13 @@ public class VRPlayer_Movement : MonoBehaviour {
     public float speed = 3.0f;
     public bool moveForward;
 	private CharacterController cc;
+	int screenIndex;
 	
 	// Use this for initialization
 	void Start () {
 		
 		cc = GetComponent<CharacterController>();
+		screenIndex = SceneManager.GetActiveScene().buildIndex;
 	}
 	
 	// Update is called once per frame
@@ -32,7 +35,8 @@ public class VRPlayer_Movement : MonoBehaviour {
         }
 		
 		if (Input.GetKeyDown(KeyCode.Escape)) {
-        Application.Quit();
+        //Application.Quit();
+		SceneManager.LoadScene( screenIndex - 1 );
 		
 		}
 	}
