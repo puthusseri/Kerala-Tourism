@@ -20,10 +20,10 @@ MonoBehaviour:
     y: 30
     width: 1342
     height: 619
-  m_MinSize: {x: 681, y: 442}
-  m_MaxSize: {x: 12006, y: 8042}
+  m_MinSize: {x: 683, y: 442}
+  m_MaxSize: {x: 12008, y: 8042}
   vertical: 0
-  controlID: 4450
+  controlID: 5928
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -123,10 +123,10 @@ MonoBehaviour:
     y: 0
     width: 923
     height: 619
-  m_MinSize: {x: 404, y: 442}
-  m_MaxSize: {x: 8004, y: 8042}
+  m_MinSize: {x: 406, y: 442}
+  m_MaxSize: {x: 8006, y: 8042}
   vertical: 1
-  controlID: 4451
+  controlID: 5929
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,10 +147,10 @@ MonoBehaviour:
     y: 0
     width: 923
     height: 348
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 4452
+  controlID: 5930
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,8 +169,8 @@ MonoBehaviour:
     y: 0
     width: 230
     height: 348
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -202,29 +202,29 @@ MonoBehaviour:
     height: 327
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 240}
-    m_SelectedIDs: 70320000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 1a44ffffdaf3ffffe6fbffff00000000823b0000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 6aabfdff
+    m_LastClickedID: -152726
+    m_ExpandedIDs: e6fbffff00000000943900007e3b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: WaterBasicDaytime
+      m_OriginalName: WaterBasicDaytime
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -152726
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
   m_ExpandedScenes:
-  - MainMenu
+  - Demo
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -281,14 +281,14 @@ MonoBehaviour:
     height: 327
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 457.5133142162361
+  lastFramingTime: 1131.21019915897
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -98.64131, y: 33.053696, z: -67.24701}
+    m_Target: {x: -82.349945, y: 42.687023, z: 24.826395}
     speed: 2
-    m_Value: {x: -98.64131, y: 33.053696, z: -67.24701}
+    m_Value: {x: -82.349945, y: 42.687023, z: 24.826395}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -316,13 +316,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.28996536, y: -0.40402207, z: 0.13683902, w: 0.85671544}
+    m_Target: {x: -0.118959256, y: 0.5722294, z: -0.08443254, w: -0.8070347}
     speed: 2
-    m_Value: {x: 0.28996536, y: -0.40402207, z: 0.13683902, w: 0.85671544}
+    m_Value: {x: -0.118957385, y: 0.5722204, z: -0.084431216, w: -0.807022}
   m_Size:
-    m_Target: 50.953392
+    m_Target: 15.726348
     speed: 2
-    m_Value: 50.953392
+    m_Value: 15.726348
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -386,7 +386,7 @@ MonoBehaviour:
   - {fileID: 13}
   - {fileID: 2}
   m_Selected: 3
-  m_LastSelected: 0
+  m_LastSelected: 1
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -424,20 +424,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Coconut Palm Tree Pack/Prefabs
+    - Assets/Standard Assets/Environment/Water (Basic)/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Coconut Palm Tree Pack/Prefabs
+  - Assets/Standard Assets/Environment/Water (Basic)/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Kerala-Tourism
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 164}
-    m_SelectedIDs: e6340000
-    m_LastClickedID: 13542
-    m_ExpandedIDs: 000000006a2c0000c22c00003c30000072300000b43000003432000088330000f2330000fc330000fe3300007a340000c4340000e4340000e634000016360000a4360000cc36000000ca9a3b
+    scrollPos: {x: 0, y: 679}
+    m_SelectedIDs: 42460000
+    m_LastClickedID: 17986
+    m_ExpandedIDs: 000000006a2c0000c22c00003c30000072300000b4300000343200006432000088330000f2330000fc330000fe3300007a340000c4340000e4340000e634000018360000a6360000ce3600003a4600007a460000ae46000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -465,7 +465,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006a2c0000c22c00003c30000072300000b43000003432000088330000f2330000fc330000fe3300007a340000c4340000e4340000e634000016360000a4360000cc36000000ca9a3b
+    m_ExpandedIDs: 000000006a2c0000c22c00003c30000072300000b4300000343200006432000088330000f2330000fc330000fe3300007a340000c4340000e4340000e634000018360000a6360000ce3600003a4600007a460000ae46000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,9 +490,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 70320000
-    m_LastClickedInstanceID: 12912
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: 6aabfdff
+    m_LastClickedInstanceID: -152726
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000784900001c390000c6410000182e00009a4000004e32000016330000062d0000a2370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -621,9 +621,9 @@ MonoBehaviour:
     height: 598
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
-  m_InstanceIDsLockedBeforeSerialization: 643b0000
+  m_InstanceIDsLockedBeforeSerialization: 
   m_LockTracker:
-    m_IsLocked: 1
+    m_IsLocked: 0
   m_PreviewResizer:
     m_CachedPref: 160
     m_ControlHash: -371814159
