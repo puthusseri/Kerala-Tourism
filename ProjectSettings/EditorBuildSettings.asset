@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene1.unity
     guid: 3de86bed5a0017644a293acafcf8a26f
+  - enabled: 1
+    path: Assets/Scenes/Scene2Waterfall.unity
+    guid: d3ed179d7ed7baf4e95601eac44d7298
   m_configObjects: {}
