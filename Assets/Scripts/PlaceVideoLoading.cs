@@ -13,6 +13,10 @@ public class PlaceVideoLoading : MonoBehaviour {
 	public void place_Wayanad() {
 		SceneManager.LoadScene("SceneWayanad");
 	}
+	public void place_Ramakalmedu() {
+		
+		SceneManager.LoadScene("SceneRamakalmedu");
+	}
 	public void quitTheApplication () {
 		Application.Quit ();
 	}
