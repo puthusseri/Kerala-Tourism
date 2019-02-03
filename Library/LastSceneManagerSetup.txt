@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SceneAthirapally.unity
+- path: Assets/Scenes/SceneTempleLake.unity
   isLoaded: 1
   isActive: 1
