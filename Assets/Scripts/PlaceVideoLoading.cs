@@ -25,6 +25,11 @@ public class PlaceVideoLoading : MonoBehaviour {
 		
 		SceneManager.LoadScene("SceneAthirapally");
 	}
+	public void place_BekalFort() {
+		
+		SceneManager.LoadScene("SceneBekalFort");
+	}
+
 	public void quitTheApplication () {
 		Application.Quit ();
 	}
