@@ -31,7 +31,11 @@ public class PlaceVideoLoading : MonoBehaviour {
 	}
 	public void place_Kochi() {
 		
-		SceneManager.LoadScene("Scenekochi");
+		SceneManager.LoadScene("SceneKochi");
+	}
+	public void place_Kottayam() {
+		
+		SceneManager.LoadScene("SceneKottayam");
 	}
 
 
