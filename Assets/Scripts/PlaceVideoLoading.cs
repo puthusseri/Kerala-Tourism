@@ -19,7 +19,7 @@ public class PlaceVideoLoading : MonoBehaviour {
 	}
 	public void place_Boating() {
 		
-		SceneManager.LoadScene("SceneBoadting");
+		SceneManager.LoadScene("SceneBoating");
 	}
 	public void place_Athirapally() {
 		

@@ -36,7 +36,8 @@ public class VRPlayer_Movement : MonoBehaviour {
 		
 		if (Input.GetKeyDown(KeyCode.Escape)) {
         //Application.Quit();
-		SceneManager.LoadScene( screenIndex - 1 );
+		//SceneManager.LoadScene( screenIndex - 1 );
+		SceneManager.LoadScene("Demo");
 		
 		}
 	}
