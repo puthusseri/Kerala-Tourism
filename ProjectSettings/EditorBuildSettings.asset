@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SceneRamakalmedu.unity
     guid: 782ed9458d5011d4699204123f5155ff
+  - enabled: 1
+    path: Assets/Scenes/SceneAthirapally.unity
+    guid: 6f6030d2244af424bb31b60786ad694f
   m_configObjects: {}
