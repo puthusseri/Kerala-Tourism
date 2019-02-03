@@ -21,12 +21,33 @@ EditorBuildSettings:
     path: Assets/Scenes/Scene2Waterfall.unity
     guid: d3ed179d7ed7baf4e95601eac44d7298
   - enabled: 1
-    path: Assets/Scenes/SceneWayanad.unity
-    guid: e666d84deab8f9643a2a194df16ff673
+    path: Assets/Scenes/SceneAthirapally.unity
+    guid: 6f6030d2244af424bb31b60786ad694f
+  - enabled: 1
+    path: Assets/Scenes/SceneBekalFort.unity
+    guid: 4f9d89d7bb5a78a4d9331714d0358e99
+  - enabled: 1
+    path: Assets/Scenes/SceneBoating.unity
+    guid: 17346925592037840a5592eb1a8102bf
+  - enabled: 1
+    path: Assets/Scenes/SceneKochi.unity
+    guid: 2a391fc65bc4d2f43b5f2a298bb88a64
+  - enabled: 1
+    path: Assets/Scenes/SceneKottayam.unity
+    guid: 80d6ff1ddf94c6744bd12c4b7847df94
   - enabled: 1
     path: Assets/Scenes/SceneRamakalmedu.unity
     guid: 782ed9458d5011d4699204123f5155ff
   - enabled: 1
-    path: Assets/Scenes/SceneAthirapally.unity
-    guid: 6f6030d2244af424bb31b60786ad694f
+    path: Assets/Scenes/SceneTempleLake.unity
+    guid: de25de6989dd0e84692f5d3b561244cd
+  - enabled: 1
+    path: Assets/Scenes/SceneTheenmala.unity
+    guid: 4ee7d705327be8e46abbf61400c6615f
+  - enabled: 1
+    path: Assets/Scenes/SceneThrissur.unity
+    guid: 810837fc6c845dc40a1c831b7d70aadd
+  - enabled: 1
+    path: Assets/Scenes/SceneWayanad.unity
+    guid: e666d84deab8f9643a2a194df16ff673
   m_configObjects: {}
