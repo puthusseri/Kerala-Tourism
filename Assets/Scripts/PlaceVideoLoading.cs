@@ -37,6 +37,10 @@ public class PlaceVideoLoading : MonoBehaviour {
 		
 		SceneManager.LoadScene("SceneKottayam");
 	}
+	public void place_TempleLake() {
+		
+		SceneManager.LoadScene("SceneTempleLake");
+	}
 
 
 	public void quitTheApplication () {
