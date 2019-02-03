@@ -45,6 +45,10 @@ public class PlaceVideoLoading : MonoBehaviour {
 		
 		SceneManager.LoadScene("SceneTheenmala");
 	}
+	public void place_Thrissur() {
+		
+		SceneManager.LoadScene("SceneThrissur");
+	}
 
 
 
