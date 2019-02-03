@@ -17,7 +17,8 @@ public class ScreenBackControllere : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if(Input.GetKeyDown(KeyCode.Escape)){
-			SceneManager.LoadScene( screenIndex - 1 );
+			//SceneManager.LoadScene( screenIndex - 1 );
+			SceneManager.LoadScene("Demo");
 		}
 	}
 }

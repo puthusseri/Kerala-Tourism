@@ -11,4 +11,12 @@ public class mainmenu : MonoBehaviour {
 		public void quitTheApplication () {
 			Application.Quit ();
 		}
+		void Start () {
+		
+		}
+		void Update () {
+			if(Input.GetKeyDown(KeyCode.Escape)){
+				Application.Quit ();
+			}
+		}
 }
