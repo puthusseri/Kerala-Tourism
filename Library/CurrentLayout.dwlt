@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 33
+  controlID: 36
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 34
+  controlID: 37
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 35
+  controlID: 38
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -201,8 +201,8 @@ MonoBehaviour:
     y: 0
     width: 710
     height: 348
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -367,10 +367,10 @@ MonoBehaviour:
     height: 327
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 202}
-    m_SelectedIDs: 76d8ffff
-    m_LastClickedID: -10122
-    m_ExpandedIDs: 70d8ffff72d8ffff74d8ffffe6fbffff00000000283e0000
+    scrollPos: {x: 0, y: 218}
+    m_SelectedIDs: 88d7ffff
+    m_LastClickedID: -10360
+    m_ExpandedIDs: 82d7ffff86d7ffff88d7ffffe6fbffff00000000283e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -455,13 +455,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.015869198, y: -0.05153339, z: 0.0009520703, w: 0.9986283}
+    m_Target: {x: 0.042882215, y: 0.018929169, z: -0.00065687374, w: 0.9989859}
     speed: 2
-    m_Value: {x: 0.015867874, y: -0.05152909, z: 0.00095199083, w: 0.998545}
+    m_Value: {x: 0.04287856, y: 0.018927556, z: -0.00065681775, w: 0.9989008}
   m_Size:
-    m_Target: 17.216557
+    m_Target: 20.531065
     speed: 2
-    m_Value: 17.216557
+    m_Value: 20.531065
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -628,7 +628,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 27}
     m_GridSize: 16
   m_DirectoriesAreaWidth: 222
 --- !u!114 &17
