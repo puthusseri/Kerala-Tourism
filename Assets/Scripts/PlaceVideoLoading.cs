@@ -29,6 +29,11 @@ public class PlaceVideoLoading : MonoBehaviour {
 		
 		SceneManager.LoadScene("SceneBekalFort");
 	}
+	public void place_Kochi() {
+		
+		SceneManager.LoadScene("Scenekochi");
+	}
+
 
 	public void quitTheApplication () {
 		Application.Quit ();
