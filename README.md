@@ -5,4 +5,8 @@
 
 ## Working
 	After starting the application you will be entering in a terrain. Look down 10 degree to start moving.	
-Select the direction board to play the 360 description about that particular place.
+	Select the direction board to play the 360 description about that particular place.
+
+## Prerequisites
+	- Unity 2018.02
+	- [GVR SDK for Unity v1.190.1](https://github.com/googlevr/gvr-unity-sdk/releases)
